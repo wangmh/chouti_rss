@@ -1,0 +1,1 @@
+java -Xms512m -Djava.ext.dirs=lib:"$JAVA_HOME/jre/lib/ext"   -jar chouti_rss-1.0-SNAPSHOT.jar
